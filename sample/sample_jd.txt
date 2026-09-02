@@ -1,0 +1,13 @@
+AI Developer - Python
+
+We are looking for a Python developer with knowledge of artificial intelligence and
+machine learning. The candidate should be comfortable with Python, Pandas, NumPy,
+scikit-learn, NLP, REST APIs and Git. Experience with LLMs, generative AI,
+Streamlit, FastAPI or cloud platforms is a plus.
+
+Responsibilities:
+- Build and integrate AI/ML applications using Python.
+- Clean and preprocess structured and unstructured data.
+- Develop NLP and machine learning pipelines.
+- Build REST APIs and deploy AI applications.
+- Evaluate model performance and improve solutions.
